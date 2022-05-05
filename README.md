@@ -38,4 +38,4 @@ MVP完成　〜5/8
 https://www.figma.com/file/QLL5sBS5FH9SbOdqkbfuxZ/%E6%9C%89%E5%90%89%E5%8F%8D%E7%9C%81%E4%BC%9A-onWeb%E3%80%80%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0%3A1
 
 ## ER図
-https://drive.google.com/file/d/1lmwerpRiRFSpnk00rJgOCG5jYTik6AQ3/view?usp=sharing
+https://drive.google.com/file/d/1BxZe2iHO0GjB0GOA99aYnZptS8PkokP1/view?usp=sharing
